@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900">
 </html>
 <?php wp_head(); ?>
-<header>gd
+<header>
     <div class="container-fluid leadboard-nav">
       <div class="row">
         <div class="col-lg-6"><img class="img-fluid logo" src="<?php echo get_stylesheet_directory_uri();?>/img/logo_WHITE.png" alt=""></div>
