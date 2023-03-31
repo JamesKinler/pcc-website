@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900">
 </html>
+<body>
 <?php wp_head(); ?>
 <header>
     <div class="container-fluid leadboard-nav">
