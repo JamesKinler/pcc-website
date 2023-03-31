@@ -43,3 +43,5 @@
   <script language="javascript" src="http://adservicebureau.com/aspBanners/scripts/showBannerJS.ashx?CampaignID=2821&amp;ad=asbC2821_1&amp;theBorder=0&amp;theTarget=_blank" ></script>
   <?php wp_footer(); ?>
 </footer>
+</body>
+</html>
